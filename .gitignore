@@ -1,0 +1,4 @@
+venv/
+julius_backend/account/migrations/*
+!julius_backend/account/migrations/__init__.py
+julius_backend/account/__pycache__
